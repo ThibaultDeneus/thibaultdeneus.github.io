@@ -2,4 +2,4 @@ layout: page
 title: "Teaching"
 permalink: /Teaching/
 
-Comming very soon.
+Comming very soon. 
