@@ -1,3 +1,6 @@
+layout: page
+title: "Research"
+permalink: /Research/
 ## Research Interest
 My research interests are in public economics.
 
