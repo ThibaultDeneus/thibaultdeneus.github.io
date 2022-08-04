@@ -8,6 +8,6 @@ My research interests are in public economics. I estimate structural labour supp
 For my master thesis I estimated a strucutural labour supply model. 
 
 ## Unemployment Benefits
-I am currently discussing potential projects with the Flemisch unemployment agency (VDAB).  
+I am currently discussing potential projects with the Flemisch unemployment agency (VDAB).   
 
 
