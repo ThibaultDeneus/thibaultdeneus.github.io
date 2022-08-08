@@ -2,8 +2,8 @@
 layout: page
 title: "Research"
 permalink: /Research/
-
 ---
+
 ## Research Interest
 My research interests are in public economics. I estimate structural labour supply models that allow for policy simulation and evaluation.
 
