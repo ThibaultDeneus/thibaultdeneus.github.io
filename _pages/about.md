@@ -22,10 +22,7 @@ I mainly code in Python and R, but I also work with Matlab and Stata.
 
 #  Research
 
-## "What Makes Work Meaningful" <span style="background:#eee;border-radius:4px;padding:2px 6px;font-size:0.8em;">[Submitted]</span>
-
-<a href="/files/Workmeaning.pdf" class="btn btn--info">PDF</a>
-
+## "[What Makes Work Meaningful](/files/MeaningProduction.pdf)" <a href="/files/MeaningProduction.pdf" class="btn btn--info">PDF</a> <span style="background:#eee;border-radius:4px;padding:2px 6px;font-size:0.8em;">[Submitted]</span>
 
 With <a href="https://thimodeschouwer.github.io/">Thimo De Schouwer</a> and <a href="https://www.econ.uni-bonn.de/en/department/doctoral-students/marco-forti">Marco Forti</a>
 
@@ -38,10 +35,13 @@ With <a href="https://thimodeschouwer.github.io/">Thimo De Schouwer</a> and <a h
 <details>
   <summary><strong>BibTeX</strong></summary>
 
-```bibtex
+<pre><code class="language-bibtex">
 @article{deschouwer2024howto,
   title   = {How to Make Work Meaningful?},
   author  = {De Schouwer, Thimo and Deneus, Thibault and Forti, Marco},
   year    = {2024},
   note    = {Working Paper}
 }
+</code></pre>
+
+</details>
