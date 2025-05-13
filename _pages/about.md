@@ -10,19 +10,15 @@ redirect_from:
 
 <div style="text-align: justify;">
 
-Hi, welcome to my website. It is clearly still in progress.
-
-I am a fourth-year PhD student at the Department of Economics of the University of Leuven. My promotor is Prof. Erwin Ooghe, and I specialize in empirical labour economics. I am currently working on topics including minimum wages, teacher time allocation, and the meaning of work. I received an FWO scholarship for my PhD.
-
-I mainly code in Python and R, but I also work with Matlab and Stata.
+I am a fourth-year PhD student in the [Department of Economics](https://feb.kuleuven.be/research/economics)  at the University of Leuven. My promotor is Prof. Erwin Ooghe, and I specialize in empirical labour economics. My current research focuses on topics such as minimum wages, teacher time allocation, and the meaning of work. I am funded by a Fellowship for Fundamental Research from the Research Foundation – Flanders. My work combines both structural models and causal inference methods.
 
 </div>
-**Contact**: [thibault.deneus@kuleuven.be](thibault.deneus@kuleuven.be)
+**Contact**: thibault.deneus (at) kuleuven.be
 
 
 #  Research
 
-## "[What Makes Work Meaningful](/files/MeaningProduction.pdf)" <a href="/files/MeaningProduction.pdf" class="btn btn--info">PDF</a> <span style="background:#eee;border-radius:4px;padding:2px 6px;font-size:0.8em;">[Submitted]</span>
+## "What Makes Work Meaningful" <a href="/files/MeaningProduction.pdf" class="btn btn--info">PDF</a> <span style="background:#eee;border-radius:4px;padding:2px 6px;font-size:0.8em;">[Submitted]</span>
 
 With <a href="https://thimodeschouwer.github.io/">Thimo De Schouwer</a> and <a href="https://www.econ.uni-bonn.de/en/department/doctoral-students/marco-forti">Marco Forti</a>
 
@@ -46,7 +42,9 @@ With <a href="https://thimodeschouwer.github.io/">Thimo De Schouwer</a> and <a h
 
 </details>
 
-## "What do teachers want? An inverse optimum approach "  <span style="background:#eee;border-radius:4px;padding:2px 6px;font-size:0.8em;">[Draft available on request]</span>
+## "What do teachers want? An inverse optimum approach "  
+
+<span style="background:#eee;border-radius:4px;padding:2px 6px;font-size:0.8em;">[Draft available on request]</span>
 
 With <a href="https://sites.google.com/view/erwinooghe/home">Erwin Ooghe</a> 
 <details>

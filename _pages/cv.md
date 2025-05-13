@@ -12,7 +12,7 @@ redirect_from:
 Contact Information
 ======
 * **Address**: Department of Economics, University of Leuven, Naamsestraat 69-02.166, 3000 Leuven, Belgium
-* **e-mail**: thibault.deneus@kuleuven.be
+* **e-mail**: thibault.deneus (at) kuleuven.be
 
 Current Position
 ======
@@ -42,4 +42,7 @@ Teaching Experience
 Working Papers
 ======
 
-["What Makes Work Meaningful"](/files/Workmeaning.pdf) 
+["What Makes Work Meaningful"](/files/Workmeaning.pdf) with <a href="https://thimodeschouwer.github.io/">Thimo De Schouwer</a> and <a href="https://www.econ.uni-bonn.de/en/department/doctoral-students/marco-forti">Marco Forti</a>
+
+"What do teachers want? An inverse optimum approach "  with <a href="https://sites.google.com/view/erwinooghe/home">Erwin Ooghe</a> 
+
