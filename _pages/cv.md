@@ -11,16 +11,12 @@ redirect_from:
 
 Contact Information
 ======
-* **Address**: Department of Economics, University of Leuven, Naamsestraat 69-02.166, Leuven 3000, Belgium.
+* **Address**: Department of Economics, University of Leuven, Naamsestraat 69-02.166, 3000 Leuven, Belgium
 * **e-mail**: thibault.deneus@kuleuven.be
 
 Current Position
 ======
-* 
-
-Previous Positions
-======
-* 
+* PhD Student, Department of Economics, University of Leuven
 
 
 Education
@@ -33,12 +29,12 @@ Education
 
 Grants
 ======
-* 
+* 2021–2025 PhD Fellowship for Fundamental Research, FWO
 
 Teaching Experience
 ======
-* 2022-2024, Teaching assistant, Dynamic Methods, graduate level.
-
+* 2022–2024, Teaching Assistant, Dynamic Methods (graduate level)
+* 2021–2024, Supervised 9 Master's theses
 
 
 
@@ -46,4 +42,4 @@ Teaching Experience
 Working Papers
 ======
 
-
+["What Makes Work Meaningful"](/files/Workmeaning.pdf) 
