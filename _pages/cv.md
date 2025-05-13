@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV --- Thibault Deneus"
+title: "Thibault Deneus"
 permalink: /cv/
 author_profile: true
 redirect_from:

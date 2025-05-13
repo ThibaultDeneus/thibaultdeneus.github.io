@@ -10,9 +10,9 @@ redirect_from:
 
 <div style="text-align: justify;">
 
-I am a fourth-year PhD student in the [Department of Economics](https://feb.kuleuven.be/research/economics)  at the University of Leuven. My promotor is Prof. Erwin Ooghe, and I specialize in empirical labour economics. My current research focuses on topics such as minimum wages, teacher time allocation, and the meaning of work. I am funded by a Fellowship for Fundamental Research from the Research Foundation – Flanders. My work combines both structural models and causal inference methods.
-
+I am a fourth-year PhD student in the <a href="https://feb.kuleuven.be/research/economics">Department of Economics</a> at the University of Leuven. My promotor is Prof. Erwin Ooghe, and I specialize in empirical labour economics. My current research focuses on topics such as minimum wages, teacher time allocation, and the meaning of work. I am funded by a Fellowship for Fundamental Research from the Research Foundation – Flanders. I use both structural models and causal inference methods for my research.
 </div>
+
 **Contact**: thibault.deneus (at) kuleuven.be
 
 
@@ -44,7 +44,7 @@ With <a href="https://thimodeschouwer.github.io/">Thimo De Schouwer</a> and <a h
 
 ## "What do teachers want? An inverse optimum approach "  
 
-<span style="background:#eee;border-radius:4px;padding:2px 6px;font-size:0.8em;">[Draft available on request]</span>
+## <span style="background:#eee;border-radius:4px;padding:2px 6px;font-size:0.8em;">[Draft available on request]</span>
 
 With <a href="https://sites.google.com/view/erwinooghe/home">Erwin Ooghe</a> 
 <details>

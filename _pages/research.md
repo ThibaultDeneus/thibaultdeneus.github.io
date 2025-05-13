@@ -11,9 +11,6 @@ redirect_from:
 
 ## Working Papers
 
-
-#  Research
-
 ## "[What Makes Work Meaningful](/files/MeaningProduction.pdf)" <a href="/files/MeaningProduction.pdf" class="btn btn--info">PDF</a> <span style="background:#eee;border-radius:4px;padding:2px 6px;font-size:0.8em;">[Submitted]</span>
 
 With <a href="https://thimodeschouwer.github.io/">Thimo De Schouwer</a> and <a href="https://www.econ.uni-bonn.de/en/department/doctoral-students/marco-forti">Marco Forti</a>
