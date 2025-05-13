@@ -17,8 +17,7 @@ I am a fourth-year PhD student in the <a href="https://feb.kuleuven.be/research/
 
 
 #  Research
-## "What Makes Work Meaningful" <a href="/files/MeaningProduction.pdf" class="btn btn--info" style="padding:2px 8px; font-size:0.85em;">PDF</a>
- <span style="background:#eee;border-radius:4px;padding:2px 6px;font-size:0.8em;">[Submitted]</span>
+## "What Makes Work Meaningful" <a href="/files/MeaningProduction.pdf" class="btn btn--info" style="padding:2px 8px; font-size:0.85em;">PDF</a> <span style="background:#eee;border-radius:4px;padding:2px 6px;font-size:0.8em;">[Submitted]</span>
 With <a href="https://thimodeschouwer.github.io/">Thimo De Schouwer</a> and <a href="https://www.econ.uni-bonn.de/en/department/doctoral-students/marco-forti">Marco Forti</a>
 <details>
   <summary><strong>Abstract</strong></summary>
@@ -40,7 +39,7 @@ With <a href="https://thimodeschouwer.github.io/">Thimo De Schouwer</a> and <a h
 
 ## "What do teachers want? An inverse optimum approach"
 <div style="margin-top: -10px; margin-bottom: 10px;">
-  <span style="background:#eee;border-radius:4px;padding:2px 6px;font-size:0.8em;">[Draft available on request]</span>
+  <span style="background:#eee;border-radius:4px;padding:4px 10px;font-size:1.6em;">[Draft available on request]</span>
 </div>
 
 With <a href="https://sites.google.com/view/erwinooghe/home">Erwin Ooghe</a>
