@@ -33,11 +33,23 @@ With <a href="https://thimodeschouwer.github.io/">Thimo De Schouwer</a> and <a h
 
 </details>
 
-## "What do teachers want? An inverse optimum approach "  <span style="background:#eee;border-radius:4px;padding:2px 6px;font-size:0.8em;">[Draft available on request]</span>
+## "[What do teachers want? An inverse optimum approach](/files/Teacher_Time_Allocation.pdf) " <a href="/files/Teacher_Time_Allocation.pdf" class="btn btn--info">PDF</a> 
 
 With <a href="https://sites.google.com/view/erwinooghe/home">Erwin Ooghe</a> 
 
 <div style="text-align: justify;">
 <p>We introduce a teacher time allocation model in which teachers allocate their available instruction time among individual, group, and classroom instruction to maximize a function of pupils' test scores. We consider two variants of the model, one with knowledge spillovers, another with instruction spillovers. We evaluate both variants and find that the variant with instruction spillovers performs better, but requires more assumptions. We also derive teachers' marginal social welfare weights for their pupils and examine the influencing factors. The weights are predominantly positive, indicating teacher efficiency, decrease with higher math scores, suggesting inequality aversion, and show no significant correlation with gender, home language, or mother's education, implying anonymity. These results appear robust regardless of the presence and type of spillover effects.</p></div>
 
+<details>
+  <summary><strong>BibTeX</strong></summary>
 
+<pre><code class="language-bibtex">
+@article{deneus2025Teacher,
+  title   = {What do teachers want? An inverse optimum approach},
+  author  = {Deneus, Thibault and Ooghe, Erwin},
+  year    = {2025},
+  note    = {Working Paper}
+}
+</code></pre>
+
+</details>

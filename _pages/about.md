@@ -35,15 +35,25 @@ With <a href="https://thimodeschouwer.github.io/">Thimo De Schouwer</a> and <a h
 
 </details>
 
-## "What do teachers want? An inverse optimum approach"
-<div style="margin-top: -10px; margin-bottom: 10px;">
-  <span style="background:#eee;border-radius:4px;padding:3px 8px;font-size:1.1em; font-weight:600;">[Draft available on request]</span>
-</div>
+## "What do teachers want? An inverse optimum approach" <a href="/files/Teacher_Time_Allocation.pdf" class="btn btn--info" style="padding:2px 8px; font-size:0.85em;">PDF</a>
 
 With <a href="https://sites.google.com/view/erwinooghe/home">Erwin Ooghe</a>
 <details>
   <summary><strong>Abstract</strong></summary>
   <div style="text-align: justify;">
-  <p>We introduce a teacher time allocation model in which teachers allocate their available instruction time among individual, group, and classroom instruction to maximize a function of pupils' test scores. We consider two variants of the model, one with knowledge spillovers, another with instruction spillovers. We evaluate both variants and find that the variant with instruction spillovers performs better, but requires more assumptions. We also derive teachers' marginal social welfare weights for their pupils and examine the influencing factors. The weights are predominantly positive, indicating teacher efficiency, decrease with higher math scores, suggesting inequality aversion, and show no significant correlation with gender, home language, or mother's education, implying anonymity. These results appear robust regardless of the presence and type of spillover effects.</p></div>
+  <p>We introduce a teacher time allocation model in which teachers allocate their available instruction time among individual, group, and classroom instruction to maximize a function of pupils' test scores. We consider two variants of the model, one with knowledge spillovers, the other with instruction spillovers. We evaluate both variants and find that the variant with instruction spillovers performs better, but requires more assumptions. We also derive teachers' marginal social welfare weights for their pupils and examine the influencing factors. The weights are predominantly positive, indicating teacher efficiency, decrease with higher math scores, suggesting inequality aversion, and show no significant correlation with gender, home language, or mother's education, implying anonymity. These results appear robust regardless of the presence and type of spillover effects.</p></div>
 </details>
 
+<details>
+  <summary><strong>BibTeX</strong></summary>
+
+<pre><code class="language-bibtex">
+@article{deneus2025Teacher,
+  title   = {What do teachers want? An inverse optimum approach},
+  author  = {Deneus, Thibault and Ooghe, Erwin},
+  year    = {2025},
+  note    = {Working Paper}
+}
+</code></pre>
+
+</details>
