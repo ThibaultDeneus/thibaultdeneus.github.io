@@ -44,5 +44,5 @@ Working Papers
 
 ["What Makes Work Meaningful"](/files/Workmeaning.pdf) with <a href="https://thimodeschouwer.github.io/">Thimo De Schouwer</a> and <a href="https://www.econ.uni-bonn.de/en/department/doctoral-students/marco-forti">Marco Forti</a>
 
-"What do teachers want? An inverse optimum approach "  with <a href="https://sites.google.com/view/erwinooghe/home">Erwin Ooghe</a> 
+["What do teachers want? An inverse optimum approach"](/files/Teacher_Time_Allocation.pdf)  with <a href="https://sites.google.com/view/erwinooghe/home">Erwin Ooghe</a> 
 
