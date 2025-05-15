@@ -44,7 +44,7 @@ With <a href="https://sites.google.com/view/erwinooghe/home">Erwin Ooghe</a>
   <summary><strong>BibTeX</strong></summary>
 
 <pre><code class="language-bibtex">
-@article{deneus2025Teacher,
+@article{deneus2025teacher,
   title   = {What do teachers want? An inverse optimum approach},
   author  = {Deneus, Thibault and Ooghe, Erwin},
   year    = {2025},
