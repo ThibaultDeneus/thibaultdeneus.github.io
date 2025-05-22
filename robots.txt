@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://thibaultdeneus.github.io/sitemap.xml
