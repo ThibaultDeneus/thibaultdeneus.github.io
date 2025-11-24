@@ -11,19 +11,18 @@ redirect_from:
 
 Contact Information
 ======
-* **Address**: Department of Economics, University of Leuven, Naamsestraat 69-02.166, 3000 Leuven, Belgium
-* **e-mail**: thibault.deneus (at) kuleuven.be
+* **e-mail**: thibault.deneus (at) gmail.com
 
 Current Position
 ======
-* PhD Student, Department of Economics, University of Leuven
-
+*Associate Economic Affairs Officer, United Nations Economic and Social Commission for Western Asia
 
 Education
 ======
 * B.A. in Physics, University of Leuven, 2019
 * B.A. in Business Engineering, University of Leuven, 2020
 * M.A. in Economics, University of Leuven, 2021
+* Ph.D. in Economics, University of Leuven, 2025
 
 
 

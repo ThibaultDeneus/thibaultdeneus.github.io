@@ -9,8 +9,8 @@ redirect_from:
 ---
 
 <div style="text-align: justify;">
-
-I am a fourth-year PhD student in the <a href="https://feb.kuleuven.be/research/economics">Department of Economics</a> at the University of Leuven. My promotor is Prof. Erwin Ooghe, and I specialize in empirical labour economics. My current research focuses on topics such as minimum wages, teacher time allocation, and the meaning of work. I am funded by a Fellowship for Fundamental Research from the Research Foundation – Flanders. I use both structural models and causal inference methods for my research.
+I am currently working as Associate Economic Affairs Officer at <a href="https://www.unescwa.org">UN ESCWA </a>. I completed my Ph.D in empirical labor economics at the <a href="https://feb.kuleuven.be/research/economics">Department of Economics</a> at the University of Leuven. I worked on unemployment training, minimum wages, job amenities, and teacher time-use, using both causal and structural methods. I used all types of
+datasets, ranging from large administrative datasets to self-collected survey data. At ESCWA, I focus on social expenditure and debt sustainability. I have strong programming skills, mainly in Python and R. I speak Dutch and English fluently, French conversationally and basic Spanish.
 </div>
 
 <div style="margin-top: 40px;"></div>
