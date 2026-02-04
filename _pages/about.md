@@ -9,11 +9,7 @@ redirect_from:
 ---
 
 <div style="text-align: justify;">
-I am the Research Lead of the Labour Market Monitoring Research Centre (<a href="https://www.steunpuntwerk.be">Steunpunt Werk</a>) at KU Leuven, where I oversee labour market monitoring and applied labour market research in support of evidence-based policymaking.
-<br><br>
-I hold a Ph.D. in empirical labour economics from the <a href="https://feb.kuleuven.be/research/economics">Department of Economics</a> at KU Leuven. My research covers unemployment training, minimum wages, job amenities, and teacher time use, using both causal and structural methods and a wide range of data sources, ranging from large administrative datasets to self-collected survey data.
-<br><br>
-Previously, I worked as an Associate Economic Affairs Officer at <a href="https://www.unescwa.org">UN ESCWA</a>, focusing on social expenditure and debt sustainability. I have strong programming skills, mainly in Python and R.
+I am the Research Lead of the Labour Market Monitoring Research Centre (<a href="https://www.steunpuntwerk.be">Steunpunt Werk</a>) at KU Leuven, where I oversee labour market monitoring and applied labour market research in support of evidence-based policymaking. I hold a Ph.D. in empirical labour economics from the <a href="https://feb.kuleuven.be/research/economics">Department of Economics</a> at KU Leuven. My research covers unemployment training, minimum wages, job amenities, and teacher time use, using both causal and structural methods and a wide range of data sources, ranging from large administrative datasets to self-collected survey data. Previously, I worked as an Associate Economic Affairs Officer at <a href="https://www.unescwa.org">UN ESCWA</a>, focusing on social expenditure and debt sustainability. I have strong programming skills, mainly in Python and R.
 </div>
 
 
