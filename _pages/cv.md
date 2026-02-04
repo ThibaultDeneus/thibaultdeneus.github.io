@@ -15,7 +15,11 @@ Contact Information
 
 Current Position
 ======
-* Associate Economic Affairs Officer, United Nations Economic and Social Commission for Western Asia
+* 12/2025 - Current, Research Lead, Labour Market Monitoring Research Centre (Steunpunt Werk)
+
+Previous Position
+======
+* 10/2025-12/2025, Associate Economic Affairs Officer, United Nations Economic and Social Commission for Western Asia
 
 Education
 ======
