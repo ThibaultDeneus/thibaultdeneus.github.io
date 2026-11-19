@@ -15,11 +15,12 @@ Contact Information
 
 Current Position
 ======
-* 12/2025 - Current, Research Lead, Labour Market Monitoring Research Centre (Steunpunt Werk)
+* 10/2026 - Current, Policy Analyst, European Commission, DG Economic and Financial Affairs (DG ECFIN), Unit B2 - Economics of Structural Reforms and Investment
 
-Previous Position
+Previous Positions
 ======
-* 10/2025-12/2025, Associate Economic Affairs Officer, United Nations Economic and Social Commission for Western Asia
+* 12/2025 - 10/2026, Research Lead, Labour Market Monitoring Research Centre (Steunpunt Werk), KU Leuven
+* 10/2025 - 12/2025, Associate Economic Affairs Officer, United Nations Economic and Social Commission for Western Asia
 
 Education
 ======
