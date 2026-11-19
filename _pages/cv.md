@@ -9,10 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-Contact Information
-======
-* **e-mail**: thibault.deneus (at) gmail.com
-
 Current Position
 ======
 * 10/2026 - Current, Policy Analyst, European Commission, DG Economic and Financial Affairs (DG ECFIN), Unit B2 - Economics of Structural Reforms and Investment
